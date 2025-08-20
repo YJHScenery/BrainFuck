@@ -1,0 +1,5 @@
+# BrainFuck 语言解释器
+
+使用 C++23 标准
+
+若使用 Visual Studio 2022 加载项目，请将 `HeaderUnits.h` 文件类型改为“C/C++编译器”
